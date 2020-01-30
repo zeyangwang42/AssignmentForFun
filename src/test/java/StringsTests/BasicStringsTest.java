@@ -189,9 +189,9 @@ public class BasicStringsTest {
     @Test
     public void oneAtATimeTest3(){
         // Given
-        String string1 = "Chr 5.0";
+        String string1 = "Chr 9.0";
         String string2 = "oot";
-        String expected = "Cohort 5.0";
+        String expected = "Chararar 7.0";
         // When
         String actual = basicStrings.oneAtATime(string1, string2);
         // Then
