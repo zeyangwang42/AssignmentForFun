@@ -1,6 +1,6 @@
 # Dan's Dilemma
 
-You look over to your neighbor Dan. Since struggling with his confidence and being told some 43 odd times by the instructors that he needs to do better in BlueJ (the first assignment I have given), he's been worried about how future assignment will go for him. He also has some dilemmas to solve. Three to be precise. Even worse, whoever was the buffoon who wrote these questions up left no instructions on what they're looking for except some terrible method names and some tests. Luckily he has you, his fellow other members to guide him in solving his dilemma! Help Dan figure out how to conquer his problems and by doing so, helping the both of you conquer Assessment 2!
+You look over to your neighbor Dan. Since struggling with his confidence and being told some 43 odd times by the instructors that he needs to do better in BlueJ (the first assignment I have given), he's been worried about how future assignment will go for him. He also has some dilemmas to solve. Three to be precise. Even worse, whoever was the buffoon who wrote these questions up left no instructions on what they're looking for except some terrible method names and some tests. Luckily he has you, his fellow other members to guide him in solving his dilemma! Help Dan figure out how to conquer his problems and by doing so, helping the both of you conquer future coding test.
 
 ## Dilemma Of Two
 
